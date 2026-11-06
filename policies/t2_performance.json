@@ -1,0 +1,11 @@
+{
+  "HighEfficiencyModeEnabled": true,
+  "MemorySaverModeSavings": 2,
+  "HardwareAccelerationModeEnabled": true,
+  "WebRtcHwDecodingEnabled": true,
+  "WebRtcHwEncodingEnabled": true,
+  "WebRtcHwVP8EncodingEnabled": true,
+  "WebRtcHwVP9EncodingEnabled": true,
+  "TabDiscardingExceptions": []
+}
+

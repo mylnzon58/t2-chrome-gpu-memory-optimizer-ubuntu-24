@@ -12,6 +12,7 @@ SCRIPTS_DIR="$REPO_DIR/scripts"
 
 echo "================================================================="
 echo "   🚀 T2 MacBook Pro 16,1 (A2141) - Chrome & GPU Optimizer      "
+echo "   Autor: Juan José Monzón (@mylnzon58)                          "
 echo "================================================================="
 
 # 1. zram Memory & Kernel Optimization
@@ -43,7 +44,7 @@ echo "Para activar los nuevos flags de GPU y la política de ahorro:"
 echo "Cierra y vuelve a abrir Google Chrome cuando estés listo."
 echo "-----------------------------------------------------------------"
 echo " 💙 Mensaje del autor / Author's note:"
-echo " Soy Juan Monzón (@mylnzon58), desarrollador independiente y padre de dos niños."
+echo " Soy Juan José Monzón (@mylnzon58), desarrollador independiente argentino y padre de una niña y un niño pequeño."
 echo " Intento vivir cada día de lo que amo creando herramientas abiertas para la comunidad."
 echo ""
 echo " ⭐ Si este optimizador aceleró Chrome y liberó tu memoria en Linux, déjame una estrella en GitHub:"

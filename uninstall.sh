@@ -34,3 +34,4 @@ if [[ "$RESP" =~ ^[sS]$ ]]; then
 fi
 
 echo "=== Desinstalación completada. Reinicia Chrome para aplicar ==="
+

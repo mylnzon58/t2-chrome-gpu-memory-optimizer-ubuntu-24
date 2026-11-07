@@ -37,3 +37,4 @@ Se ejecutó una prueba de inyección de carga sintética de **2.0 GB de memoria 
 ## 3. Conclusión y Verificación
 
 La combinación de **compresión en RAM (`zram` zstd) + políticas de descarte nativas de Chrome + flags de rasterización Wayland Zero-Copy** transforma una experiencia de escritorio saturada y propensa al estrangulamiento térmico en una estación de trabajo ágil, fría y con rendimiento equivalente al de un equipo con 32 GB de RAM.
+

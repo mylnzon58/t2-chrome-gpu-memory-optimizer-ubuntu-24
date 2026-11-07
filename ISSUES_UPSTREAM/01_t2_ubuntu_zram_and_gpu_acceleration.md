@@ -56,3 +56,4 @@ Add an entry to the T2 Ubuntu Wiki / Documentation detailing hardware accelerati
 A complete, tested, open-source automation script and managed policy suite has been published and validated:
 * Repository: `https://github.com/mylnzon58/t2-chrome-gpu-memory-optimizer-ubuntu-24`
 * Author: Juan Monzón (`@mylnzon58`)
+

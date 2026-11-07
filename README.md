@@ -6,6 +6,10 @@
 [![License](https://img.shields.io/badge/License-GPL--3.0-orange.svg)](LICENSE)
 [![GPU](https://img.shields.io/badge/GPU-AMD%20Radeon%20Pro%205500M%20(Navi%2014)-red.svg)](https://www.amd.com)
 
+<p align="center">
+  <img src="assets/hero-banner.jpg" alt="Apple T2 Chrome, GPU & Memory Accelerator" width="100%" />
+</p>
+
 Optimización integral de rendimiento para **Google Chrome**, renderizado por hardware en la GPU dedicada **AMD Radeon Pro 5500M**, arquitectura de memoria comprimida en RAM (**`zram` con compresión `zstd`**) y políticas administradas de descarte agresivo de pestañas inactivas en **MacBook Pro 16,1 (A2141)** ejecutando **Ubuntu 24.04 LTS Noble Numbat** bajo Wayland.
 
 ---
@@ -142,3 +146,4 @@ sudo ./install.sh
 
 ### 4. License
 Released under the **GPL-3.0 License**. Developed and benchmarked by **Juan Monzón** ([@mylnzon58](https://github.com/mylnzon58)).
+

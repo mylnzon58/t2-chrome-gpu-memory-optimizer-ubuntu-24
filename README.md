@@ -5,6 +5,7 @@
 [![Kernel](https://img.shields.io/badge/Kernel-Linux%207.3.0--t2-green.svg)](https://github.com/t2linux)
 [![License](https://img.shields.io/badge/License-GPL--3.0-orange.svg)](LICENSE)
 [![GPU](https://img.shields.io/badge/GPU-AMD%20Radeon%20Pro%205500M%20(Navi%2014)-red.svg)](https://www.amd.com)
+[![Sponsor on Patreon](https://img.shields.io/badge/Patreon-Planes_para_Sponsors-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/JuanjoClassic)
 
 <p align="center">
   <img src="assets/hero-banner.jpg" alt="Apple T2 Chrome, GPU & Memory Accelerator" width="100%" />
@@ -146,4 +147,7 @@ sudo ./install.sh
 
 ### 4. License
 Released under the **GPL-3.0 License**. Developed and benchmarked by **Juan Monzón** ([@mylnzon58](https://github.com/mylnzon58)).
+
+- 🧡 **Planes para Sponsors en Patreon:** Cuento con planes de patrocinio mensual en **[patreon.com/JuanjoClassic](https://www.patreon.com/JuanjoClassic)** para apoyar el desarrollo y mantenimiento continuo de herramientas para Apple T2 en Linux.
+- ☕ **Donaciones directas:** [tecito.app/juanjoclassic](https://tecito.app/juanjoclassic).
 

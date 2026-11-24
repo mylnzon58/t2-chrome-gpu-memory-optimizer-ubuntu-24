@@ -1,9 +1,12 @@
 # 🚀 T2 MacBook Pro 16,1 (A2141): Chrome, GPU & Memory Performance Optimizer (Ubuntu 24.04 LTS)
 
 [![Platform](https://img.shields.io/badge/Platform-Apple%20T2%20(MacBookPro16%2C1)-blue.svg)](https://github.com/mylnzon58)
-[![OS](https://img.shields.io/badge/OS-Ubuntu%2024.04%20LTS%20Noble-E95420.svg)](https://ubuntu.com)
-[![Kernel](https://img.shields.io/badge/Kernel-Linux%207.3.0--t2-green.svg)](https://github.com/t2linux)
-[![License](https://img.shields.io/badge/License-GPL--3.0-orange.svg)](LICENSE)
+[![Platform](assets/badges/apple-a2141.svg)](https://github.com/mylnzon58)
+[![OS](assets/badges/ubuntu-24-04-lts.svg)](https://ubuntu.com)
+[![Kernel](assets/badges/kernel-t2.svg)](https://github.com/t2linux)
+[![GPU](assets/badges/amd-radeon-pro.svg)](https://www.amd.com)
+[![Sponsor on Patreon](assets/badges/patreon-flat.svg)](https://www.patreon.com/JuanjoClassic)
+[![License](assets/badges/license-gpl3.svg)](LICENSE)
 [![GPU](https://img.shields.io/badge/GPU-AMD%20Radeon%20Pro%205500M%20(Navi%2014)-red.svg)](https://www.amd.com)
 [![Sponsor on Patreon](https://img.shields.io/badge/Patreon-Planes_para_Sponsors-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/JuanjoClassic)
 
